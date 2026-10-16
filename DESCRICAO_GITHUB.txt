@@ -1,0 +1,9 @@
+analise-qualidade-vinho-tinto
+
+DESCRIÇÃO:
+Análise exploratória e predição da qualidade de vinhos tintos com regressão linear e Ridge, 
+validação cruzada e Python (scikit-learn).
+
+TÓPICOS:
+python, data-science, machine-learning, scikit-learn, pandas, regression, eda, wine-quality,
+jupyter-notebook / Google Colab / VS Code
